@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Vahid Shariati
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Vahid
+last_name: Shariati
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Senior Bioinformatician
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: NIGEB
+    url: https://nigeb.ac.ir/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,17 +47,19 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - Bioinformatics
+  - Computational biology
+  - Genomics
+  - Systems biology
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Bioinformatics
+    institution: Sant' Anna
+    date_start: ''
+    date_end: 2010
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Dr. Vahid Shariati is a bioinformatician with extensive expertise in genomics research across human, plants, and microorganisms. Over 12+ years at Iran’s National Institute of Genetic Engineering and Biotechnology (NIGEB), he has led population genome diversity studies, bacterial pan-genome analyses, and plant genomic projects.Recently, his focus pivots to human cancer research, employing AI, meta-nalysis, and multi-omics integration to identify biomarkers, dissect co-expression networks, and develop predictive models. Moreover, his experience as a full-stack developer enables him to design scalable pipelines, tools and databases for NGS and genomics data.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
