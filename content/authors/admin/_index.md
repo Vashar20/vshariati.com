@@ -11,7 +11,7 @@ last_name: Shariati
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: '' #☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: ✉️ #at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
@@ -48,18 +48,18 @@ profiles:
 
 interests:
   - Bioinformatics
-  - Computational biology
   - Genomics
-  - Systems biology
   - Artificial Intelligence
+  - Computational biology
+  - Systems biology
 
 education:
   - area: PhD in Bioinformatics
-    institution: Sant' Anna University
+    institution: Sant' Anna University, 2010
     date_start: ''
     date_end: 2010
     summary: |
-      Dr. Vahid Shariati is a bioinformatician with extensive expertise in genomics research across human, plants, and microorganisms. Over 12+ years at Iran’s National Institute of Genetic Engineering and Biotechnology (NIGEB), he has led population genome diversity studies, bacterial pan-genome analyses, and plant genomic projects.Recently, his focus pivots to human cancer research, employing AI, meta-nalysis, and multi-omics integration to identify biomarkers, dissect co-expression networks, and develop predictive models. Moreover, his experience as a full-stack developer enables him to design scalable pipelines, databases, and tools for NGS and genomics data.
+      ''
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -183,6 +183,5 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+## About
+Dr. Vahid Shariati is a bioinformatician with extensive expertise in genomics research across human, plants, and microorganisms. Over 12+ years at Iran’s National Institute of Genetic Engineering and Biotechnology (NIGEB), he has led population genome diversity studies, bacterial pan-genome analyses, and plant genomic projects.Recently, his focus pivots to human cancer research, employing AI, meta-nalysis, and multi-omics integration to identify biomarkers, dissect co-expression networks, and develop predictive models. Moreover, his experience as a full-stack developer enables him to design scalable pipelines, databases, and tools for NGS and genomics data.
