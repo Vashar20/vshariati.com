@@ -55,7 +55,7 @@ interests:
 
 education:
   - area: PhD in Bioinformatics
-    institution: Sant' Anna
+    institution: Sant' Anna University
     date_start: ''
     date_end: 2010
     summary: |
