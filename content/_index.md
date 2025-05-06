@@ -58,7 +58,7 @@ sections:
       title: Skills
       username: admin
     design:
-      show_skill_percentage: false
+      show_skill_percentage: true
   #- block: resume-awards
   #  content:
   #    title: Awards
@@ -76,7 +76,7 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: publication #post
+      page_type: post
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
