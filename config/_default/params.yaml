@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} All rights are reserved.' #Me. This work is licensed under {license}
+    notice: '© 2024 All rights are reserved.' #Me. This work is licensed under {license}
     license:
       enable: false
       allow_derivatives: false

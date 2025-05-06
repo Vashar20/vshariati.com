@@ -7,24 +7,25 @@ main:
   - name: About
     url: /
     weight: 10
-  - name: Skills
-    url: /skills #/#talks
-    weight: 12
+
   #- name: News
   # url: /#news
   # weight: 13
   - name: Experience
-    url: experience/
+    url: /#experience #experience/
+    weight: 12
+  - name: Skills
+    url: /#skills #/#talks
     weight: 20
   - name: Projects
     url: projects/
     weight: 30
   - name: Publications
-    url: /papers #/#papers
+    url: /#Publications #/papers #/#papers
     weight: 40
-  - name: Teaching
-    url: teaching/
-    weight: 50
+  #- name: Teaching
+  #  url: teaching/
+  #  weight: 50
   - name: Contact
     url: contact/
     weight: 60

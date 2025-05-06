@@ -54,8 +54,8 @@ interests:
   - Systems biology
 
 education:
-  - area: PhD in Genomics (Bioinformatics), 2010
-    institution: Sant' Anna University, Italy
+  - area: PhD in Genomics (Bioinformatics)
+    institution: Sant' Anna University, Italy, 2010
     date_start: ''
     date_end: 2010
     summary: |
@@ -63,16 +63,16 @@ education:
    # button:
    #   text: 'Read Thesis'
    #   url: 'https://example.com'
-  - area: MSc in Molecular Biology, 2006
-    institution: University of Shiraz, Iran
+  - area: MSc in Molecular Biology
+    institution: University of Shiraz, Iran, 2006
     date_start: 2004-01-01
     date_end: 2006-01-31
     summary: |
       GPA: 3.8/4.0
 
 
-  - area: BSc in Molecular Biology, 2012
-    institution: University of Mazandaran, Iran
+  - area: BSc in Molecular Biology
+    institution: University of Mazandaran, Iran, 2012
     date_start: 2000-01-01
     date_end: 2004-01-31
     summary: |
