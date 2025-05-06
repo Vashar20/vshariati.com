@@ -1,0 +1,15 @@
+---
+title: SCREENING IRANIAN BREAD WHEAT LINES UNDER DIFFERENT WATER REGIMES USING YIELD
+  BASED DROUGHT TOLERANCE INDICES
+authors:
+- H. DARZI-RAMANDI
+- H. NAJAFI-ZARINI
+- V. SHARIATI J.
+- K. RAZAVI
+- S. K KAZEMITABAR
+date: '2016-01-01'
+publishDate: '2025-05-06T13:56:14.137304Z'
+publication_types:
+- article-journal
+publication: '*SABRAO Journal of Breeding & Genetics*'
+---
