@@ -42,39 +42,7 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Upcoming Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 3
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: article-grid #citation
-      columns: 4
-  - block: collection
-    id: plant #talks
-    content:
-      title: Plant Publications
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 4
-
+  
   - block: resume-experience
     content:
       username: admin
@@ -85,10 +53,10 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Skills
       username: admin
     design:
-      show_skill_percentage: false
+      show_skill_percentage: true
   - block: resume-awards
     content:
       title: Awards
@@ -100,13 +68,13 @@ sections:
 
 
   - block: collection
-    id: news
+    id: projects
     content:
-      title: Recent News
+      title: Projects
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: card #post
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -128,6 +96,44 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
+
+  - block: collection
+    id: papers
+    content:
+      title: Upcoming Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 3
+      
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: article-grid #citation
+      columns: 4
+  #- block: collection
+  #  id: plant #talks
+  #  content:
+  #    title: Plant Publications
+  #    filters:
+  #      folders:
+  #        - event
+  #  design:
+  #    view: article-grid
+  #    columns: 4
+
+
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

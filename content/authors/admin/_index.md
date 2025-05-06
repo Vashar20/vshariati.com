@@ -30,8 +30,8 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: ✉️ #at-symbol
-    url: 'mailto:your-email@example.com'
+  - icon: at-symbol
+    url: 'mailto:contact@vshariati.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -54,37 +54,31 @@ interests:
   - Systems biology
 
 education:
-  - area: PhD in Bioinformatics
+  - area: PhD in Genomics (Bioinformatics)
     institution: Sant' Anna University, 2010
     date_start: ''
     date_end: 2010
     summary: |
       ''
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MSc in Molecular Biology, 2006
-    institution: Massachusetts Institute of Technology
+   # button:
+   #   text: 'Read Thesis'
+   #   url: 'https://example.com'
+  - area: MSc in Molecular Biology
+    institution: University of Shiraz, 2006
     date_start: 2004-01-01
     date_end: 2006-01-31
     summary: |
       GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc in Molecular Biology, 2012
-    institution: Massachusetts Institute of Technology
+
+  - area: BSc in Molecular Biology
+    institution: Massachusetts Institute of Technology, 2012
     date_start: 2000-01-01
     date_end: 2004-01-31
     summary: |
       GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Assistant Professor
     company_name: NIGEB
@@ -94,9 +88,14 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Population genome diversity
+      - Pan and core genome analysis
+      - Algorithms for the identification and annotation of genetic variants
+      - Bioinformatics support for research projects
+      - Data mining, meta-analysis, and omics integration
+      - Drug discovery
+      - AI models
+
   - position: Director of Genome Center
     company_name: X
     company_url: ''
@@ -105,9 +104,25 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Establish genomics lab
+      - Train and lead junior scientists
+      - Develop Analysis pipelines
+      - Scientific consults
+    
+  - position: Research Assistant
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2010-01-01
+    date_end: 2012-12-31
+    summary: |
+      Responsibilities include:
+      - Analysis of genomic data
+      - Chromosome assembly for research project
+      - Statistical analysis and visualization
+      - Preparation of publications and research reports
+
+      
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -115,17 +130,62 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
+        description: 'Data Analysis, Pipelines Development, Database'
         percent: 95
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
+      - name: R
+        description: 'Statistical Analysis and Visualization'
+        percent: 80
+        icon: rstudio-plain #chart-bar
+      - name: Bash
+        description: 'System Management, Scripting, NGS Analysis'
+        percent: 95
+        icon: code-bracket
+      - name: Javascript
+        description: 'Interface, Backend, API'
+        percent: 80
+        icon: code-bracket
       - name: SQL
-        description: ''
-        percent: 60
+        description: 'Database'
+        percent: 70
         icon: circle-stack
+      - name: High-throughput Data
+        description: 'Genomics, Transcriptomics, Multi-omics'
+        percent: 90
+        icon: circle-stack
+      - name: Systems Biology
+        description: 'Pathways, Networks, Differential co-expression, Integrated Networks'
+        percent: 90
+        icon: circle-stack
+      - name: Machine Learning
+        description: 'Supervised and Unsupervised Models'
+        percent: 80
+        icon: circle-stack
+      - name: Deep Learning
+        description: 'CNN, GNN, VAE, GAN, LLM'
+        percent: 70
+        icon: circle-stack
+      - name: Statistics
+        description: 'Biostatisticals Data Analysis, Meta-analysis'
+        percent: 90
+        icon: circle-stack
+      - name: Population analysis
+        description: 'Structure, GWAS, post-GWAS, Demographic Analysis'
+        percent: 75
+        icon: circle-stack
+      - name: Genomics
+        description: 'Structural, Functional, Comparative and conservation'
+        percent: 90
+        icon: circle-stack
+      - name: Cheminformatics
+        description: 'Drug-Target Interaction Analysis, Virtual HT Screening'
+        percent: 75
+        icon: circle-stack
+      - name: Soft Skills
+        description: 'Problem-solving, Innovation, communication, presentation, collaborative, independent'
+        percent: 95
+        icon: circle-stack
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
