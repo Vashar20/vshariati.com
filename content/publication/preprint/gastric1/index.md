@@ -2,7 +2,7 @@
 title: "Decoding Gastric Cancer: An AI-Driven Transcriptomic Meta-Analysis"
 authors:
 - A Asadi, T Adel, Z Nayeri, V shariati
-date: "Submition"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -59,7 +59,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- gastric-cancer-projects
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
