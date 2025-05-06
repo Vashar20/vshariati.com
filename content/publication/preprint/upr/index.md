@@ -20,10 +20,16 @@ publication_short: ""
 abstract: Cancer, a complex and multifaceted disease, poses a significant challenge to modern medicine and is one of the leading causes of death worldwide [1–3]. Despite extensive research to understand its intricate mechanisms and develop effective treatments, a comprehensive solution remains elusive and many patients continue to experience poor outcomes. This is because of the numerous dynamic cellular processes that drive cancer progression and drug resistance [4,5]. Among these, Endoplasmic Reticulum (ER) stress and the Unfolded Protein Response (UPR) pathway are pivotal, serving as essential components for sustaining cellular equilibrium.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Cancer, a complex and multifaceted disease, poses a significant challenge to modern medicine and is one of the leading causes of death worldwide [1–3]. Despite extensive research to understand its intricate mechanisms and develop effective treatments, a comprehensive solution remains elusive and many patients continue to experience poor outcomes. This is because of the numerous dynamic cellular processes that drive cancer progression and drug resistance [4,5]. Among these, Endoplasmic Reticulum (ER) stress and the Unfolded Protein Response (UPR) pathway are pivotal, serving as essential components for sustaining cellular equilibrium.
 
 tags:
 - Cancer
+- Meta-analysis
+- Transcriptome
+- Human
+- Machine Learning
+- Genome variation
+- Epigenomics
 
 featured: true
 
