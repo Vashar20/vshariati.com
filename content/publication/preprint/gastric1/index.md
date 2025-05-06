@@ -2,11 +2,11 @@
 title: "Decoding Gastric Cancer: An AI-Driven Transcriptomic Meta-Analysis"
 authors:
 - A Asadi, T Adel, Z Nayeri, V shariati
-date: ""
+date: "2025-04-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2025"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,11 +24,11 @@ summary: Gastric cancer (GC) remains a leading cause of global cancer mortality,
 
 tags:
 - Cancer
-- Meta-analysis
+- Meta
 - Transcriptome
 - Human
-- Machine Learning
-- Genome variation
+- ML
+- Genome
 - Epigenomics
 - Network
 
@@ -49,7 +49,8 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Figure 5. Hub metagenes'
   focal_point: ""
   preview_only: false
 
@@ -69,11 +70,3 @@ projects:
 slides: gastric meta-analysis
 ---
 
-# This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-# 
-# {{% callout note %}}
-# Create your slides in Markdown - click the *Slides* button to check out the example.
-# {{% /callout %}}
-# 
-# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
-# 

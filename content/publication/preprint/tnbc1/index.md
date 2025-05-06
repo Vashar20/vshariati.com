@@ -2,11 +2,11 @@
 title: "A comprehensive transcriptomic meta-Analysis leveraging deep learning to uncover molecular signatures and potential therapeutic targets in Triple-Negative Breast Cancers"
 authors:
 - S Salesi, T Adel, Z Nayeri, V shariati
-date: ""
+date: "2025-04-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2025"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,12 +24,12 @@ summary: Triple-negative breast cancer (TNBC), characterized by its aggressive b
 
 tags:
 - Cancer
-- Meta-analysis
+- Meta
 - Transcriptome
 - Human
-- Machine Learning
-- Deep Learning
-- Genome variation
+- ML
+- DL
+- Genome
 - Epigenomics
 - Network
 
@@ -50,7 +50,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Figure 8. Clustring of metagenes'
   focal_point: ""
   preview_only: false
 
@@ -70,11 +70,3 @@ projects:
 slides: tnbc meta-analysis
 ---
 
-# This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-# 
-# {{% callout note %}}
-# Create your slides in Markdown - click the *Slides* button to check out the example.
-# {{% /callout %}}
-# 
-# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
-# 
