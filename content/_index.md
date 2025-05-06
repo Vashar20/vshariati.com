@@ -57,10 +57,10 @@ sections:
       username: admin
     design:
       show_skill_percentage: true
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
+  #- block: resume-awards
+  #  content:
+  #    title: Awards
+  #    username: admin
   - block: resume-languages
     content:
       title: Languages
@@ -74,7 +74,7 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: card #post
+      page_type: post
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -92,7 +92,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      view: card #date-title-summary
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
@@ -109,7 +109,7 @@ sections:
     design:
       view: article-grid
       columns: 3
-      
+
   - block: collection
     content:
       title: Recent Publications
