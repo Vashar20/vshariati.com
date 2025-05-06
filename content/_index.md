@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: resume-biography-2
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Shariati-Resume-H2025.pdf
     design:
       css_class: dark
       background:
@@ -74,6 +74,31 @@ sections:
     design:
       view: article-grid
       columns: 4
+
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
+
+
   - block: collection
     id: news
     content:

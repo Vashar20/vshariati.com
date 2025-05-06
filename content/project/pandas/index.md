@@ -1,13 +1,14 @@
 ---
-title: Pandas
+title: Cancers Meta-analysis
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: '' #https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Meta
+  - Cancer
+  - Human
+  - Drug
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Comprehensive transcriptome and genome data analysis, providing high-confident results through meta-analysis and AI models.
 
 <!--more-->
