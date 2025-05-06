@@ -18,10 +18,10 @@ main:
     url: /#skills #/#talks
     weight: 20
   - name: Projects
-    url: projects/
+    url: /#projects #projects/
     weight: 30
   - name: Publications
-    url: /#Publications #/papers #/#papers
+    url: /#papers
     weight: 40
   #- name: Teaching
   #  url: teaching/

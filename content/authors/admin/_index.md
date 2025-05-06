@@ -58,8 +58,7 @@ education:
     institution: Sant' Anna University, Italy, 2010
     date_start: ''
     date_end: 2010
-    summary: |
-      ''
+   # summary: 
    # button:
    #   text: 'Read Thesis'
    #   url: 'https://example.com'
@@ -136,7 +135,7 @@ skills:
       - name: R
         description: 'Statistical Analysis and Visualization'
         percent: 80
-        icon: devicon-rstudio-plain #chart-bar
+        icon: chart-bar
       - name: Bash
         description: 'System Management, Scripting, NGS Analysis'
         percent: 95

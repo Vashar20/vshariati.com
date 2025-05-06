@@ -44,6 +44,7 @@ sections:
   #     columns: '1'
   
   - block: resume-experience
+    id: experience
     content:
       username: admin
     design:
@@ -52,11 +53,12 @@ sections:
       # Education or Experience section first?
       is_education_first: false
   - block: resume-skills
+    id: skills
     content:
       title: Skills
       username: admin
     design:
-      show_skill_percentage: true
+      show_skill_percentage: false
   #- block: resume-awards
   #  content:
   #    title: Awards
@@ -74,7 +76,7 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: publication #post
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
@@ -89,10 +91,11 @@ sections:
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      #order: desc
     design:
       # Choose a layout view
       view: card #date-title-summary
+      columns: 4
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
