@@ -63,10 +63,10 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: MSc in Molecular Biology, 2006
     institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2004-01-01
+    date_end: 2006-01-31
     summary: |
       GPA: 3.8/4.0
 
@@ -74,10 +74,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+  - area: BSc in Molecular Biology, 2012
     institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2000-01-01
+    date_end: 2004-01-31
     summary: |
       GPA: 3.4/4.0
       
@@ -86,22 +86,22 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Assistant Professor
+    company_name: NIGEB
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2013-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+  - position: Director of Genome Center
     company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
+    date_start: 2015-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
@@ -116,7 +116,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 95
         icon: code-bracket
       - name: Data Science
         description: ''
@@ -124,7 +124,7 @@ skills:
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 60
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -145,11 +145,13 @@ skills:
 
 languages:
   - name: English
+    percent: 80
+  - name: Italian
+    percent: 60
+  - name: French
+    percent: 30
+  - name: Persian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -184,4 +186,4 @@ awards:
 ---
 
 ## About
-Dr. Vahid Shariati is a bioinformatician with extensive expertise in genomics research across human, plants, and microorganisms. Over 12+ years at Iran’s National Institute of Genetic Engineering and Biotechnology (NIGEB), he has led population genome diversity studies, bacterial pan-genome analyses, and plant genomic projects.Recently, his focus pivots to human cancer research, employing AI, meta-nalysis, and multi-omics integration to identify biomarkers, dissect co-expression networks, and develop predictive models. Moreover, his experience as a full-stack developer enables him to design scalable pipelines, databases, and tools for NGS and genomics data.
+Dr. Vahid Shariati is a bioinformatician with extensive expertise in genomics research across human, plants, and microorganisms. Over 12+ years at Iran’s National Institute of Genetic Engineering and Biotechnology (NIGEB), he has led population genome diversity studies, bacterial pan-genome analyses, and plant genomic projects. Recently, his focus pivots to human cancer research, employing AI, meta-nalysis, and multi-omics integration to identify biomarkers, dissect co-expression networks, and develop predictive models. Moreover, his experience as a full-stack developer enables him to design scalable pipelines, databases, and tools for NGS and genomics data.
