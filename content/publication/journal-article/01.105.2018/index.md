@@ -38,9 +38,8 @@ tags:
 - Mammalian
 - Animal
 - Rat
-- Cross-species
 - Proteome
-- Machine-learning
+- ML
 - SVM
 
 
