@@ -9,6 +9,6 @@ tags:
   - Drug
 ---
 
-Comprehensive transcriptome and genome data analysis, providing high-confident results through meta-analysis and AI models.
+Comprehensive transcriptome and genome data analysis, providing the most reliable results through meta-analysis and AI models.
 
 <!--more-->

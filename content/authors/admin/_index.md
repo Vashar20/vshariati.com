@@ -71,7 +71,7 @@ education:
 
 
   - area: BSc in Molecular Biology
-    institution: University of Mazandaran, Iran, 2012
+    institution: University of Mazandaran, Iran, 2004
     date_start: 2000-01-01
     date_end: 2004-01-31
     summary: |
