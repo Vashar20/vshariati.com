@@ -24,10 +24,11 @@ summary: Sequestosome 1 (SQSTM1)/p62 is a multifunctional protein involved in di
 
 tags:
 - Cancer
+- Human
 - Drug
 - Transcriptome
 - Genome
-- Human
+
 
 featured: true
 
@@ -36,12 +37,12 @@ links:
   url: ''
 url_pdf: ''
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -57,6 +58,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - upr-project
+- pan-cancer
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

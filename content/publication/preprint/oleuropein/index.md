@@ -6,7 +6,7 @@ date: "2025-04-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2025-08-08T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,9 +24,9 @@ summary: Breast cancer (BC) remains a leading cause of cancer-related morbidity 
 
 tags:
 - Cancer
+- Human
 - Drug
 - Transcriptome
-- Human
 - DL
 - Network
 
@@ -37,12 +37,12 @@ links:
   url: ''
 url_pdf: ''
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -57,7 +57,8 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- TNBC-project
+- drug-discovery
+- tnbc-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

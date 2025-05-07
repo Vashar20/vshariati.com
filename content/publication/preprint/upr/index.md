@@ -24,9 +24,9 @@ summary: Endoplasmic reticulum (ER) stress and the unfolded protein response (UP
 
 tags:
 - Cancer
+- Human
 - Meta
 - Transcriptome
-- Human
 - ML
 - UPR
 - Epigenomics
@@ -38,12 +38,12 @@ links:
   url: ''
 url_pdf: ''
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -58,7 +58,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- pan-cancer-project
+- pan-cancer
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
