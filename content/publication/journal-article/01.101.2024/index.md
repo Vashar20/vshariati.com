@@ -32,6 +32,8 @@ summary: The aim of this study was to understand the interactions between tumor-
 
 tags:
 - Human
+- Animal
+- Rat
 - Cancer
 - Meta-analysis
 - RNA-seq

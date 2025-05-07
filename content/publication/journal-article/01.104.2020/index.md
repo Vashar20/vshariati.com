@@ -43,6 +43,7 @@ summary: Lipopolysaccharide (LPS) derived from gram negative bacteria cell wall 
 
 tags:
 - Animal
+- Sheep
 - Transcriptome 
 - Infection
 - Disease
