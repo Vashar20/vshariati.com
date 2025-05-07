@@ -5,7 +5,7 @@ authors:
 - Zahra-Soheila Soheili
 - Elahe Asadollahi
 - Mehdi Shamsara
-- Vahid Shariati
+- admin
 - Alireza Zomorodipour
 author_notes:
 - "Equal contribution"
