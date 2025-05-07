@@ -81,13 +81,15 @@ sections:
       count: 5
       # Filter on criteria
       filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
+        folders:
+          - project
+        # author: ""
+        # category: ""
+        # tag: ""
+        # exclude_featured: false
+        # exclude_future: false
+        # exclude_past: false
+        # publication_type: ""
       # Choose how many pages you would like to offset by
       offset: 0
       # Page order: descending (desc) or ascending (asc) date.
@@ -98,7 +100,7 @@ sections:
       columns: 4
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [1, 1, 1, 1] #[0, 0, 0, 0]
 
 
   - block: collection
@@ -109,6 +111,7 @@ sections:
         folders:
           - publication
         featured_only: true
+      count: 0
     design:
       view: article-grid
       columns: 3
@@ -117,6 +120,7 @@ sections:
     content:
       title: Recent Publications
       text: ""
+      count: 0
       filters:
         folders:
           - publication
