@@ -72,7 +72,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Projects
+      title: Project Experiences
       # subtitle: ''
       # text: ''
       # Page type to display. E.g. post, talk, publication...
