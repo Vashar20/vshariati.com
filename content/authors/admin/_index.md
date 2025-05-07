@@ -103,9 +103,9 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Establish genomics lab
+      - Genomics lab establishment
       - Train and lead junior scientists
-      - Develop Analysis pipelines
+      - Analysis pipelines development
       - Scientific consults
     
   - position: Research Assistant

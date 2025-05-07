@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Scientific Reports, 15610 *(2017)"
+publication: "Scientific Reports, 15610(2017)"
 publication_short: ""
 
 abstract: In this study, we provide a comparative genomic analysis of Pantoea agglomerans strain P5 and 10 closely related strains based on phylogenetic analyses. A next-generation shotgun strategy was implemented using the Illumina HiSeq 2500 technology followed by core- and pan-genome analysis. The genome of P. agglomerans strain P5 contains an assembly size of 5082485 bp with 55.4% G + C content. P. agglomerans consists of 2981 core and 3159 accessory genes for Coding DNA Sequences (CDSs) based on the pan-genome analysis. Strain P5 can be grouped closely with strains PG734 and 299 R using pan and core genes, respectively. All the predicted and annotated gene sequences were allocated to KEGG pathways. Accordingly,  genes involved in plant growth-promoting (PGP) ability, including phosphate solubilization, IAA and siderophore production, acetoin and 2,3-butanediol synthesis and bacterial secretion, were assigned. This study provides an in-depth view of the PGP characteristics of strain P5, highlighting its potential use in agriculture as a biofertilizer.

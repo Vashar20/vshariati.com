@@ -3,7 +3,7 @@ title: Publications
 cms_exclude: true
 
 # View.
-view: compact #citation
+view: citation
 
 # Optional header image (relative to `static/media/` folder).
 banner:
