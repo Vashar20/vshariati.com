@@ -33,6 +33,7 @@ tags:
 - Bacteria
 - Genome
 - Assembly
+- Pangenome
 - Comparative
 - Annotation
 - Functional
