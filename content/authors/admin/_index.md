@@ -66,7 +66,7 @@ education:
    #   text: 'Read Thesis'
    #   url: 'https://example.com'
   - area: MSc in Molecular Biology
-    institution: University of Shiraz, Iran, 2006
+    institution: University of Shiraz, Iran, 2007
     date_start: 2004-10-01
     date_end: 2007-01-31
     summary: |
