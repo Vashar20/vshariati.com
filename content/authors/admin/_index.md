@@ -126,63 +126,76 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: <b>Python</b><br><sub>Data Analysis, Pipelines Development,<br>Database, API</sub> #Python
-        description: <b>95</b> #'Data Analysis, Pipelines Development, Database'
+      - name: <b>Python</b><br><sub>Data Analysis, Pipelines Development, Database, Backend</sub>
+        description: <b>95%</b>
         percent: 95
         icon: python #code-bracket
         icon_pack: fab
-      - name: R
-        description: 'Statistical Analysis and Visualization'
+      - name: <b>R</b><br><sub>Statistical Analysis and Visualization</sub>
+        description: <b>80%</b>
         percent: 80
-        icon: chart-bar
-      - name: Bash
-        description: 'System Management, Scripting, NGS Analysis'
+        icon: r-project
+        icon_pack: fab
+      - name: <b>Bash</b><br><sub>System Management, Scripting, NGS Analysis</sub>
+        description: <b>95%</b>
         percent: 95
-        icon: code-bracket
-      - name: Javascript
-        description: 'Interface, Backend, API'
+        icon: bash
+        icon_pack: fab
+      - name: <b>Javascript</b><br><sub>Interface, Backend, API</sub>
+        description: <b>80%</b>
         percent: 80
-        icon: code-bracket
-      - name: SQL
-        description: 'Database'
+        icon: javascript
+        icon_pack: fab
+      - name: <b>SQL</b><br><sub>Database</sub>
+        description: <b>70%</b>
         percent: 70
-        icon: circle-stack
-      - name: High-throughput Data
-        description: 'Genomics, Transcriptomics, Multi-omics'
+        icon: mysql
+        icon_pack: devicon
+      - name: <b>High-throughput Data</b><br><sub>Genomics, Transcriptomics, Multi-omics/sub>
+        description: <b>90%</b>
         percent: 90
-        icon: circle-stack
-      - name: Systems Biology
-        description: 'Pathways, Networks, Differential co-expression, Integrated Networks'
+        icon: server
+        icon_pack: fas
+      - name: <b>Systems Biology</b><br><sub>Pathways, Networks, Differential co-expression, Integrated Networks</sub>
+        description: <b>90%</b>
         percent: 90
-        icon: circle-stack
-      - name: Machine Learning
-        description: 'Supervised and Unsupervised Models'
+        icon: networkx
+        icon_pack: devicon
+      - name: <b>Machine Learning</b><br><sub>Supervised and Unsupervised Models</sub>
+        description: <b>80%</b>
         percent: 80
-        icon: circle-stack
-      - name: Deep Learning
-        description: 'CNN, GNN, VAE, GAN, LLM'
+        icon: robot
+        icon_pack: fas
+      - name: <b>Deep Learning</b><br><sub>CNN, GNN, VAE, GAN, LLM</sub>
+        description: <b>70%</b>
         percent: 70
-        icon: circle-stack
-      - name: Statistics
-        description: 'Biostatisticals Data Analysis, Meta-analysis'
+        icon: keras
+        icon_pack: devicon
+      - name: <b>Statistics</b><br><sub>Biostatisticals Data Analysis, Meta-analysis</sub>
+        description: <b>90%</b>
         percent: 90
-        icon: circle-stack
-      - name: Population analysis
-        description: 'Structure, GWAS, post-GWAS, MetaQTL, Demographic Analysis'
+        icon: gitter
+        icon_pack: devicon
+      - name: <b>Population analysis</b><br><sub>Structure, GWAS, post-GWAS, MetaQTL, Demographic Analysis</sub>
+        description: <b>75%</b>
         percent: 75
-        icon: circle-stack
-      - name: Genomics
-        description: 'Structural, Functional, Comparative and conservation'
-        percent: 90
-        icon: circle-stack
-      - name: Cheminformatics
-        description: 'Drug-Target Interaction Analysis, Virtual HT Screening'
+        icon: user-group
+        icon_pack: hero
+      - name: <b>Genomics</b><br><sub>Structural, Functional, Comparative and conservation</sub>
+        description: <b>80%</b>
+        percent: 80
+        icon: dna
+        icon_pack: fas
+      - name: <b>Cheminformatics</b><br><sub>Drug-Target Interaction Analysis, Virtual HT Screening</sub>
+        description: <b>75%</b>
         percent: 75
-        icon: circle-stack
-      - name: Soft Skills
-        description: 'Problem-solving, Innovation, communication, presentation, collaborative, independent'
+        icon: atom
+        icon_pack: fas
+      - name: <b>Soft Skills</b><br><sub>Problem-solving, Innovation, communication, presentation, collaborative, independent</sub>
+        description: <b>95%</b>
         percent: 95
-        icon: circle-stack
+        icon: mood
+        icon_pack: fas
 
   #- name: Hobbies
   #  color: '#eeac02'
