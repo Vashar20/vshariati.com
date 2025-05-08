@@ -32,7 +32,7 @@ organizations:
 profiles:
   - icon: envelope #at-symbol
     icon_pack: fas
-    url: 'mailto:contact@vshariati.com'
+    url: 'mailto:vshariati@nigeb.ac.ir' #'mailto:contact@vshariati.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/
