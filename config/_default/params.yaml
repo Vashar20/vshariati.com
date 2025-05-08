@@ -36,6 +36,10 @@ header:
     show_theme_chooser: true
     logo:
       text: "Vahid Shariati"
+      # Logo filename in `assets/media/` folder
+      # filename: "logo.svg"
+    # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
+    highlight_active_link: true
 
 # Site footer
 footer:

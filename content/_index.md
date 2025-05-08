@@ -59,7 +59,8 @@ sections:
       title: Skills
       username: admin
     design:
-      show_skill_percentage: false
+      columns: '2'
+      show_skill_percentage: true
   #- block: resume-awards
   #  content:
   #    title: Awards
@@ -98,11 +99,11 @@ sections:
       #order: desc
     design:
       # Choose a layout view
-      view: card #date-title-summary
-      columns: 4
+      view: showcase #card #date-title-summary
+      columns: '2'
       # Reduce spacing
-      spacing:
-        padding: [1, 1, 1, 1] #[0, 0, 0, 0]
+      # spacing:
+      #   padding: [0, 0, 0, 0]
 
 
   - block: collection
