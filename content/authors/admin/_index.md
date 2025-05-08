@@ -20,8 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior Bioinformatician
- (Genomics Senior Scientist)
+role: Senior Bioinformatician <br /> (Genomics Senior Scientist)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,7 +30,8 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: envelope #at-symbol
+    icon_pack: fas
     url: 'mailto:contact@vshariati.com'
     label: E-mail Me
   - icon: brands/x
