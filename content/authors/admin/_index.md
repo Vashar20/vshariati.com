@@ -184,12 +184,12 @@ skills:
       - name: <b>Genomics</b>
         description: Structural, Functional, Comparative and conservation<br><b>80%</b>
         percent: 80
-        icon: devicon/molecular
+        icon: devicon/moleculer
         #icon_pack: fas
       - name: <b>Cheminformatics</b>
         description: Drug-Target Interaction Analysis, Virtual HT Screening<br><b>75%</b>
         percent: 75
-        icon: devicon/sqlalchemy
+        icon: devicon/atom
         #icon_pack: fas
       - name: <b>Soft Skills</b>
         description: Problem-solving, Innovation, communication, presentation, collaborative, independent<br><b>95%</b>
