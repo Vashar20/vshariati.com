@@ -21,6 +21,7 @@ highlight_name: true
 
 # Role/position/tagline
 role: Senior Bioinformatician
+ (Genomics Senior Scientist)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,17 +35,17 @@ profiles:
     url: 'mailto:contact@vshariati.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/
   - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://www.instagram.com/vahid_shariati1
+  #- icon: brands/github
+  #  url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/vahidshariati/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=lpnA4U4AAAAJ&hl=en
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/
 
 interests:
   - Bioinformatics
@@ -86,7 +87,6 @@ work:
     date_start: 2013-01-01
     date_end: ''
     summary: |2-
-      #Responsibilities include:
       - Population genome diversity
       - Pan and core genome analysis
       - Algorithms for the identification and annotation of genetic variants
@@ -103,7 +103,6 @@ work:
     date_start: 2015-01-01
     date_end: 2020-12-31
     summary: |
-      #Responsibilities include:
       - Genomics lab establishment
       - Analysis pipelines development
       - Scientific consults
@@ -115,7 +114,6 @@ work:
     date_start: 2010-01-01
     date_end: 2012-12-31
     summary: |
-      #Responsibilities include:
       - Analysis of genomic data
       - Partial chromosome assembly for research project
       - Statistical analysis and visualization
@@ -245,4 +243,4 @@ languages:
 ---
 
 ## About
-Dr. Vahid Shariati is a bioinformatician with extensive expertise in genomics research across human, plants, and microorganisms. Over 12 years at Iran’s National Institute of Genetic Engineering and Biotechnology (NIGEB), he has led population genome diversity studies, pan-genome, transcriptome, and meta-analysis projects in human, plants, and bacteria species. Recently, his focus pivots to human cancer research, employing AI, meta-nalysis, and multi-omics integration to identify cancer development and progression mechanisms, biomarkers, and develop predictive models. Moreover, his experience as a full-stack developer enables him to design scalable pipelines, databases, and tools for NGS and genomics data.
+Dr. Vahid Shariati is a bioinformatician with extensive expertise in genomics research across several species. Over 10 years at Iran’s National Institute of Genetic Engineering and Biotechnology (NIGEB), he has led whole genome, pan-genome, transcriptome, and meta-analysis projects in human, plants, and bacteria species. Recently, his focus pivots to human cancer research, employing meta-nalysis, artificial intelligence (AI), and multi-omics integration to identify cancer development and progression mechanisms, biomarkers, and develop predictive models. Moreover, his experience as a full-stack developer enables him to design scalable pipelines, databases, and tools for next-generation sequencing (NGS) and genomics data.
