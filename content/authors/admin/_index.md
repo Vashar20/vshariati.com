@@ -129,23 +129,23 @@ skills:
       - name: <b>Python</b>
         description: Data Analysis, Pipelines Development, Database, Backend<br><b>95%</b>
         percent: 95
-        icon: python #code-bracket
-        icon_pack: fab
+        icon: devicon/python #code-bracket
+        #icon_pack: fab
       - name: <b>R</b>
         description: Statistical Analysis and Visualization<br><b>80%</b>
         percent: 80
-        icon: devicon/r-plain #r-project
+        icon: devicon/r #r-project
         #icon_pack: fab
       - name: <b>Bash</b>
         description: System Management, Scripting, NGS Analysis<br><b>95%</b>
         percent: 95
-        icon: bash-plain
-        icon_pack: devicon
+        icon: devicon/bash
+        #icon_pack: devicon
       - name: <b>Javascript</b>
         description: Interface, Backend, API<br><b>80%</b>
         percent: 80
-        icon: javascript-original
-        icon_pack: devicon
+        icon: devicon/javascript
+        #icon_pack: devicon
       - name: <b>SQL</b>
         description: Database<br><b>70%</b>
         percent: 70
