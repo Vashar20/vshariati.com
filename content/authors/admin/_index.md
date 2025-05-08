@@ -55,7 +55,7 @@ interests:
   - Systems biology
 
 education:
-  - area: PhD in Genomics (Bioinformatics)
+  - area: PhD in Genomics
     institution: Sant' Anna University, Italy, 2010
     date_start: 2007-03-31
     date_end: 2010-01-31
