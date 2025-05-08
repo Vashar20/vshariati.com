@@ -7,6 +7,7 @@
 appearance:
   mode: dark
   color: blue
+  font_size: M
 
 # SEO
 marketing:
@@ -14,8 +15,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Dr.Vahid Shariati personal website. He is an expertise in bioinformatics, genomics, and AI.'
-    twitter: 'vshariati'
+    description: 'Vahid Shariati | Bioinformatician | Genomics | Artificial Intelligence (AI)'
+    twitter: 'https://twitter.com/vshariati'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -25,7 +26,8 @@ marketing:
   verification:
     google: ''
     baidu: ''
-
+# Contact
+appointment_url: 'https://calendar.app.google/ASaj6RGvcb4zcgim8'
 # Site header
 header:
   navbar:
@@ -59,6 +61,35 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
-    enable: false
+    enable: true
+  highlight: true
+  highlight_languages:
+  - r
+  - python
+  - latex
+  avatar:
+  gravatar: false
+  shape: circle
+  publications:
+    date_format: January 2006
+    citation_style: apa
+  projects:
+    post_view: 2
+    publication_view: 2
+    talk_view: 2
+  breadcrumb:
+    page_types:
+      book: true
+  show_related:
+  book: true
+  page: true
+  post: true
+  project: true
+  publication: true
+  event: true
+  reading_time: true
+  section_pager: true
+  docs_section_pager: true
+
