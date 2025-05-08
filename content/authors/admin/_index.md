@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior Bioinformatician <br /> (Genomics Senior Scientist)
+role: Senior Bioinformatician <br/> (Genomics Senior Scientist)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -57,16 +57,18 @@ interests:
 education:
   - area: PhD in Genomics (Bioinformatics)
     institution: Sant' Anna University, Italy, 2010
-    date_start: ''
-    date_end: 2010
+    date_start: 2007-03-31
+    date_end: 2010-01-31
+    summary: |
+      Top student
    # summary: 
    # button:
    #   text: 'Read Thesis'
    #   url: 'https://example.com'
   - area: MSc in Molecular Biology
     institution: University of Shiraz, Iran, 2006
-    date_start: 2004-01-01
-    date_end: 2006-01-31
+    date_start: 2004-10-01
+    date_end: 2007-01-31
     summary: |
       GPA: 3.8/4.0
 
@@ -84,35 +86,50 @@ work:
     company_name: NIGEB
     company_url: ''
     company_logo: ''
-    date_start: 2013-01-01
+    date_start: 2018-01-01
     date_end: ''
     summary: |2-
       - Population genome diversity
-      - Pan and core genome analysis
-      - Algorithms for the identification and annotation of genetic variants
+      - Pan-cancer studies
       - Bioinformatics support for research projects
-      - Data mining, meta-analysis, and omics integration
+      - Meta-analysis, and omics integration
       - Drug discovery
       - AI models
       - Train and lead junior scientists
 
-  - position: Director of Genome Center
+  - position: Scientific Director of Genome Center
     company_name: NIGEB
     company_url: ''
     company_logo: ''
     date_start: 2015-01-01
     date_end: 2020-12-31
     summary: |
-      - Genomics lab establishment
+      - Genomics services and lab establishment
       - Analysis pipelines development
       - Scientific consults
+
+  - position: Bioinformatics Research Scientist #Assistant Professor
+    company_name: NIGEB
+    company_url: ''
+    company_logo: ''
+    date_start: 2012-01-01
+    date_end: '2017-01-01'
+    summary: |2-
+      - Pan and core genome analysis
+      - Algorithms for the identification and annotation of genetic variants
+      - Bioinformatics support for research projects
+      - Data mining, comparative genomics
+      - Pan and core genome analysis
+      - Transcriptome Analysis
+      - Population genetics
+
     
   - position: Research Assistant
     company_name: University of Milan
     company_url: ''
     company_logo: ''
     date_start: 2010-01-01
-    date_end: 2012-12-31
+    date_end: 2011-12-31
     summary: |
       - Analysis of genomic data
       - Partial chromosome assembly for research project
@@ -313,7 +330,7 @@ skills:
         percent: 95
         icon: hero/academic-cap
       - name: <b>Learning</b>
-        description: Continuous proactive engagement with emerging fields<br><br><b>95%</b>
+        description: Continuous proactive engagement with emerging fields<br><b>95%</b>
         percent: 95
         icon: hero/sparkles  # Symbolizes curiosity and innovation
 
