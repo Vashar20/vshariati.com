@@ -131,21 +131,21 @@ skills:
         percent: 95
         icon: python #code-bracket
         icon_pack: fab
-      - name: <b>R</b><br><sub>Statistical Analysis and Visualization</sub>
-        description: <b>80%</b>
+      - name: <b>R</b>
+        description: Statistical Analysis and Visualization<br><b>80%</b>
         percent: 80
         icon: r-project
         icon_pack: fab
-      - name: <b>Bash</b><br><sub>System Management, Scripting, NGS Analysis</sub>
-        description: <b>95%</b>
+      - name: <b>Bash</b>
+        description: System Management, Scripting, NGS Analysis<br><b>95%</b>
         percent: 95
-        icon: bash
-        icon_pack: fab
-      - name: <b>Javascript</b><br><sub>Interface, Backend, API</sub>
-        description: <b>80%</b>
+        icon: bash-plain
+        icon_pack: devicon
+      - name: <b>Javascript</b>
+        description: Interface, Backend, API<br><b>80%</b>
         percent: 80
-        icon: javascript
-        icon_pack: fab
+        icon: javascript-original
+        icon_pack: devicon
       - name: <b>SQL</b><br><sub>Database</sub>
         description: <b>70%</b>
         percent: 70
@@ -154,8 +154,8 @@ skills:
       - name: <b>High-throughput Data</b><br><sub>Genomics, Transcriptomics, Multi-omics</sub>
         description: <b>90%</b>
         percent: 90
-        icon: server
-        icon_pack: fas
+        icon: server-stack
+        icon_pack: hero
       - name: <b>Systems Biology</b><br><sub>Pathways, Networks, Differential co-expression, Integrated Networks</sub>
         description: <b>90%</b>
         percent: 90
