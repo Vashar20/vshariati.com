@@ -126,8 +126,8 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: <b>Python</b><br><sub>Data Analysis, Pipelines Development, Database, Backend</sub>
-        description: <b>95%</b>
+      - name: <b>Python</b>
+        description: Data Analysis, Pipelines Development, Database, Backend<br><b>95%</b>
         percent: 95
         icon: python #code-bracket
         icon_pack: fab
@@ -151,7 +151,7 @@ skills:
         percent: 70
         icon: mysql
         icon_pack: devicon
-      - name: <b>High-throughput Data</b><br><sub>Genomics, Transcriptomics, Multi-omics/sub>
+      - name: <b>High-throughput Data</b><br><sub>Genomics, Transcriptomics, Multi-omics</sub>
         description: <b>90%</b>
         percent: 90
         icon: server
