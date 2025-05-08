@@ -240,8 +240,8 @@ work:
 #
 skills:
   - name: Programming
-    color: '#e12b64'
-    color_border: '#e12b64'
+    color: '#6771dc'
+    color_border: '#6771dc'
     items:
       - name: <b>Python</b>
         description: Data Analysis, Pipeline Development, Backend (Flask/Django)<br><b>95%</b>
@@ -265,19 +265,19 @@ skills:
         icon: devicon/postgresql
 
   - name: Analysis
-    color: '#e12b64'
-    color_border: '#e12b64'
+    color: '#8f65e9'
+    color_border: '#8f65e9'
     items:
       - name: <b>Multi-Omics</b>
         description: Genomics, Transcriptomics, Proteomics<br><b>90%</b>
         percent: 90
-        icon: hero/moleculer
+        icon: devicon/moleculer
       - name: <b>Systems Biology</b>
         description: Network Analysis, Pathway Modeling<br><b>90%</b>
         percent: 90
         icon: devicon/networkx
-      - name: <b>Machine Learning, AI</b>
-        description: Supervised and Unsupervised Models, CNNs, GNNs, VAE, Transformers<br><b>80%</b>
+      - name: <b>Machine Learning</b>
+        description: Supervised/Unsupervised Models, CNNs, GNNs, VAE, LLM<br><b>80%</b> #Transformers
         percent: 80
         icon: devicon/scikitlearn
       #- name: <b>Deep Learning</b>
@@ -287,14 +287,14 @@ skills:
       - name: <b>Population</b>
         description: Pan-genome, GWAS, MetaQTL, Demographic Analysis<br><b>75%</b>
         percent: 75
-        icon: devicon/git
+        icon: devicon/sourcetree
       - name: <b>Cheminformatics</b>
         description: Drug-Target Prediction, Virtual Screening<br><b>75%</b>
         percent: 75
         icon: devicon/atom
   - name: Soft Skills
-    color: '#e12b64'
-    color_border: '#e12b64'
+    color: '#f264ab'
+    color_border: '#f264ab'
     items:
       - name: <b>Problem Solving</b>
         description: Analytical, Innovative, Adaptable<br><b>95%</b>
@@ -312,8 +312,8 @@ skills:
         description: Self-directed Research, Project Ownership<br><b>95%</b>
         percent: 95
         icon: hero/academic-cap
-      - name: <b>Continuous Learning</b>
-        description: Proactive engagement with emerging fields<br><br><b>95%</b>
+      - name: <b>Learning</b>
+        description: Continuous proactive engagement with emerging fields<br><br><b>95%</b>
         percent: 95
         icon: hero/sparkles  # Symbolizes curiosity and innovation
 
