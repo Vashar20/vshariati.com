@@ -124,7 +124,9 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Skills
+    color: '#e12b64'
+    color_border: '#e12b64'
     items:
       - name: <b>Python</b>
         description: Data Analysis, Pipelines Development, Database, Backend<br><b>95%</b>
@@ -151,6 +153,10 @@ skills:
         percent: 70
         icon: devicon/mysql
         #icon_pack: devicon
+  - name: Analysis Skills
+    color: '#e12b64'
+    color_border: '#e12b64'
+    items:
       - name: <b>High-throughput Data</b>
         description: Genomics, Transcriptomics, Multi-omics<br><b>90%</b>
         percent: 90
@@ -191,8 +197,43 @@ skills:
         percent: 75
         icon: devicon/atom
         #icon_pack: fas
-      - name: <b>Soft Skills</b>
-        description: Problem-solving, Innovation, communication, presentation, collaborative, independent<br><b>95%</b>
+  - name: Soft Skills
+    color: '#e12b64'
+    color_border: '#e12b64'
+    items:
+      - name: <b>Problem-solving</b>
+        # description: Problem-solving, Innovation, communication, presentation, collaborative, independent<br><b>95%</b>
+        description: Innovation, communication, presentation, collaborative, independent<br><b>95%</b>
+        percent: 95
+        icon: hero/user-group
+        #icon_pack: fas
+      - name: <b>Innovation</b>
+        description: Problem-solving, , communication, presentation, collaborative, independent<br><b>95%</b>
+        percent: 95
+        icon: hero/user-group
+        #icon_pack: fas
+      - name: <b>communication</b>
+        description: Problem-solving, Innovation, , presentation, independent<br><b>95%</b>
+        percent: 95
+        icon: hero/user-group
+        #icon_pack: fas
+      - name: <b>collaborative</b>
+        description: Problem-solving, Innovation, communication, collaborative, independent<br><b>95%</b>
+        percent: 95
+        icon: hero/user-group
+        #icon_pack: fas
+      - name: <b>presentation</b>
+        description: <br><b>95%</b>
+        percent: 95
+        icon: hero/user-group
+        #icon_pack: fas
+      - name: <b>collaborative</b>
+        description: Problem-solving, Innovation, communication, presentation, independent<br><b>95%</b>
+        percent: 95
+        icon: hero/user-group
+        #icon_pack: fas
+      - name: <b>independent</b>
+        description: Problem-solving, Innovation, communication, presentation, collaborative<br><b>95%</b>
         percent: 95
         icon: hero/user-group
         #icon_pack: fas
