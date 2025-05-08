@@ -239,7 +239,7 @@ work:
 #        #icon_pack: fas
 #
 skills:
-  - name: Programming & Tools
+  - name: Programming
     color: '#e12b64'
     color_border: '#e12b64'
     items:
@@ -264,28 +264,28 @@ skills:
         percent: 70
         icon: devicon/postgresql
 
-  - name: Bioinformatics & Analysis
+  - name: Analysis
     color: '#e12b64'
     color_border: '#e12b64'
     items:
       - name: <b>Multi-Omics</b>
         description: Genomics, Transcriptomics, Proteomics<br><b>90%</b>
         percent: 90
-        icon: hero/server-stack
+        icon: hero/moleculer
       - name: <b>Systems Biology</b>
         description: Network Analysis, Pathway Modeling<br><b>90%</b>
         percent: 90
         icon: devicon/networkx
-      - name: <b>Machine Learning</b>
-        description: Supervised and Unsupervised Models(scikit-learn)<br><b>80%</b>
+      - name: <b>Machine Learning, AI</b>
+        description: Supervised and Unsupervised Models, CNNs, GNNs, VAE, Transformers<br><b>80%</b>
         percent: 80
         icon: devicon/scikitlearn
-      - name: <b>Deep Learning</b>
-        description: CNNs, GNNs, VAE, LLM, Transformers<br><b>70%</b>
-        percent: 70
-        icon: devicon/pytorch
-      - name: <b>Population Genetics</b>
-        description: GWAS, MetaQTL, Demographic Analysis<br><b>75%</b>
+      #- name: <b>Deep Learning</b>
+      #  description: CNNs, GNNs, VAE, LLM, Transformers<br><b>70%</b>
+      #  percent: 70
+      #  icon: devicon/keras
+      - name: <b>Population</b>
+        description: Pan-genome, GWAS, MetaQTL, Demographic Analysis<br><b>75%</b>
         percent: 75
         icon: devicon/git
       - name: <b>Cheminformatics</b>
@@ -312,6 +312,35 @@ skills:
         description: Self-directed Research, Project Ownership<br><b>95%</b>
         percent: 95
         icon: hero/academic-cap
+      - name: <b>Continuous Learning</b>
+        description: Proactive engagement with emerging fields<br><br><b>95%</b>
+        percent: 95
+        icon: hero/sparkles  # Symbolizes curiosity and innovation
+
+      #- name: <b>Ethical Decision-Making</b>
+      #  description: 
+      #    Advised on genomic data privacy (GDPR, HIPAA)<br>
+      #    Led ethics review boards for AI-driven drug discovery projects<br><b>90%</b>
+      #  percent: 90
+      #  icon: hero/scales  # Represents balance and ethical judgment
+      #- name: <b>Critical Thinking</b>
+      #  description: 
+      #    Designed statistically robust frameworks to address publication bias in GWAS<br>
+      #    Peer reviewer for 10+ journals (e.g., Nature Genetics, Bioinformatics)<br><b>90%</b>
+      #  percent: 90
+      #  icon: hero/light-bulb  # Symbolizes insight and analysis
+      #- name: <b>Teaching & Workshops</b>
+      #  description: 
+      #    Led 10+ workshops on NGS pipelines and ML in genomics<br>
+      #    Designed course materials for 3 university-level bioinformatics programs<br><b>90%</b>
+      #  percent: 90
+      #  icon: hero/presentation-chart-line
+      #- name: <b>Technical Training</b>
+      #  description: 
+      #    Mentored 15+ junior scientists in Python/R and cloud-based workflows<br>
+      #    Developed open-source training modules (GitHub, JupyterHub)<br><b>85%</b>
+      #  percent: 85
+      #  icon: hero/academic-cap
 
   #- name: Hobbies
   #  color: '#eeac02'
