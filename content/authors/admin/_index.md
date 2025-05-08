@@ -123,120 +123,195 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
+#skills:
+  # - name: Programming Skills
+  #   color: '#e12b64'
+  #   color_border: '#e12b64'
+  #   items:
+  #     - name: <b>Python</b>
+  #       description: Data Analysis, Pipelines Development, Database, Backend<br><b>95%</b>
+  #       percent: 95
+  #       icon: devicon/python #code-bracket
+  #       #icon_pack: fab
+  #     - name: <b>R</b>
+  #       description: Statistical Analysis and Visualization<br><b>80%</b>
+  #       percent: 80
+  #       icon: devicon/r #r-project
+  #       #icon_pack: fab
+  #     - name: <b>Bash</b>
+  #       description: System Management, Scripting, NGS Analysis<br><b>95%</b>
+  #       percent: 95
+  #       icon: devicon/bash
+  #       #icon_pack: devicon
+  #     - name: <b>Javascript</b>
+  #       description: Interface, Backend, Nodejs, React, API<br><b>80%</b>
+  #       percent: 80
+  #       icon: devicon/javascript
+  #       #icon_pack: devicon
+  #     - name: <b>SQL</b>
+  #       description: Database<br><b>70%</b>
+  #       percent: 70
+  #       icon: devicon/mysql
+  #       #icon_pack: devicon
+  # - name: Analysis Skills
+  #   color: '#e12b64'
+  #   color_border: '#e12b64'
+  #   items:
+  #     - name: <b>High-throughput Data</b>
+  #       description: Genomics, Transcriptomics, Multi-omics<br><b>90%</b>
+  #       percent: 90
+  #       icon: hero/server-stack
+  #       #icon_pack: hero
+  #     - name: <b>Systems Biology</b>
+  #       description: Pathways, Networks, Differential co-expression, Integrated Networks<br><b>90%</b>
+  #       percent: 90
+  #       icon: devicon/networkx
+  #       #icon_pack: devicon
+  #     - name: <b>Machine Learning</b>
+  #       description: Supervised and Unsupervised Models<br><b>80%</b>
+  #       percent: 80
+  #       icon: devicon/scikitlearn
+  #       #icon_pack: fas
+  #     - name: <b>Deep Learning</b>
+  #       description: CNN, GNN, VAE, GAN, LLM<br><b>70%</b>
+  #       percent: 70
+  #       icon: devicon/keras
+  #       #icon_pack: devicon
+  #     - name: <b>Statistics</b>
+  #       description: Biostatisticals Data Analysis, Meta-analysis<br><b>90%</b>
+  #       percent: 90
+  #       icon: devicon/matplotlib
+  #       #icon_pack: devicon
+  #     - name: <b>Population</b>
+  #       description: Structure, GWAS, post-GWAS, MetaQTL, Demographic Analysis<br><b>75%</b>
+  #       percent: 75
+  #       icon: devicon/sourcetree
+  #       #icon_pack: hero
+  #     - name: <b>Genomics</b>
+  #       description: Structural, Functional, Comparative and conservation<br><b>80%</b>
+  #       percent: 80
+  #       icon: devicon/moleculer
+  #       #icon_pack: fas
+  #     - name: <b>Cheminformatics</b>
+  #       description: Drug-Target Interaction Analysis, Virtual HT Screening<br><b>75%</b>
+  #       percent: 75
+  #       icon: devicon/atom
+  #       #icon_pack: fas
+  #  - name: Soft Skills
+#    color: '#e12b64'
+#    color_border: '#e12b64'
+#    items:
+#      - name: <b>Problem-solving</b>
+#        # description: Problem-solving, Innovation, communication, presentation, collaborative, independent<br><b>95%</b>
+#        description: Innovation, communication, presentation, collaborative, independent<br><b>95%</b>
+#        percent: 95
+#        icon: hero/user-group
+#        #icon_pack: fas
+#      - name: <b>Innovation</b>
+#        description: Problem-solving, , communication, presentation, collaborative, independent<br><b>95%</b>
+#        percent: 95
+#        icon: hero/user-group
+#        #icon_pack: fas
+#      - name: <b>communication</b>
+#        description: Problem-solving, Innovation, , presentation, independent<br><b>95%</b>
+#        percent: 95
+#        icon: hero/user-group
+#        #icon_pack: fas
+#      - name: <b>collaborative</b>
+#        description: Problem-solving, Innovation, communication, collaborative, independent<br><b>95%</b>
+#        percent: 95
+#        icon: hero/user-group
+#        #icon_pack: fas
+#      - name: <b>presentation</b>
+#        description: <br><b>95%</b>
+#        percent: 95
+#        icon: hero/user-group
+#        #icon_pack: fas
+#      - name: <b>collaborative</b>
+#        description: Problem-solving, Innovation, communication, presentation, independent<br><b>95%</b>
+#        percent: 95
+#        icon: hero/user-group
+#        #icon_pack: fas
+#      - name: <b>independent</b>
+#        description: Problem-solving, Innovation, communication, presentation, collaborative<br><b>95%</b>
+#        percent: 95
+#        icon: hero/user-group
+#        #icon_pack: fas
+#
 skills:
-  - name: Programming Skills
+  - name: Programming & Tools
     color: '#e12b64'
     color_border: '#e12b64'
     items:
       - name: <b>Python</b>
-        description: Data Analysis, Pipelines Development, Database, Backend<br><b>95%</b>
+        description: Data Analysis, Pipeline Development, Backend (Flask/Django)<br><b>95%</b>
         percent: 95
-        icon: devicon/python #code-bracket
-        #icon_pack: fab
+        icon: devicon/python
       - name: <b>R</b>
-        description: Statistical Analysis and Visualization<br><b>80%</b>
+        description: Statistical Analysis, Visualization<br><b>80%</b>
         percent: 80
-        icon: devicon/r #r-project
-        #icon_pack: fab
+        icon: devicon/r
       - name: <b>Bash</b>
-        description: System Management, Scripting, NGS Analysis<br><b>95%</b>
+        description: Scripting, NGS Pipeline Automation, System Management<br><b>95%</b>
         percent: 95
         icon: devicon/bash
-        #icon_pack: devicon
-      - name: <b>Javascript</b>
-        description: Interface, Backend, API<br><b>80%</b>
+      - name: <b>JavaScript</b>
+        description: Full-Stack Development (React, Node.js, REST APIs)<br><b>80%</b>
         percent: 80
         icon: devicon/javascript
-        #icon_pack: devicon
       - name: <b>SQL</b>
-        description: Database<br><b>70%</b>
+        description: Database Design & Querying<br><b>70%</b>
         percent: 70
-        icon: devicon/mysql
-        #icon_pack: devicon
-  - name: Analysis Skills
+        icon: devicon/postgresql
+
+  - name: Bioinformatics & Analysis
     color: '#e12b64'
     color_border: '#e12b64'
     items:
-      - name: <b>High-throughput Data</b>
-        description: Genomics, Transcriptomics, Multi-omics<br><b>90%</b>
+      - name: <b>Multi-Omics</b>
+        description: Genomics, Transcriptomics, Proteomics<br><b>90%</b>
         percent: 90
         icon: hero/server-stack
-        #icon_pack: hero
       - name: <b>Systems Biology</b>
-        description: Pathways, Networks, Differential co-expression, Integrated Networks<br><b>90%</b>
+        description: Network Analysis, Pathway Modeling<br><b>90%</b>
         percent: 90
         icon: devicon/networkx
-        #icon_pack: devicon
       - name: <b>Machine Learning</b>
-        description: Supervised and Unsupervised Models<br><b>80%</b>
+        description: Supervised and Unsupervised Models(scikit-learn)<br><b>80%</b>
         percent: 80
         icon: devicon/scikitlearn
-        #icon_pack: fas
       - name: <b>Deep Learning</b>
-        description: CNN, GNN, VAE, GAN, LLM<br><b>70%</b>
+        description: CNNs, GNNs, VAE, LLM, Transformers<br><b>70%</b>
         percent: 70
-        icon: devicon/keras
-        #icon_pack: devicon
-      - name: <b>Statistics</b>
-        description: Biostatisticals Data Analysis, Meta-analysis<br><b>90%</b>
-        percent: 90
-        icon: devicon/matplotlib
-        #icon_pack: devicon
-      - name: <b>Population analysis</b>
-        description: Structure, GWAS, post-GWAS, MetaQTL, Demographic Analysis<br><b>75%</b>
+        icon: devicon/pytorch
+      - name: <b>Population Genetics</b>
+        description: GWAS, MetaQTL, Demographic Analysis<br><b>75%</b>
         percent: 75
-        icon: devicon/sourcetree
-        #icon_pack: hero
-      - name: <b>Genomics</b>
-        description: Structural, Functional, Comparative and conservation<br><b>80%</b>
-        percent: 80
-        icon: devicon/moleculer
-        #icon_pack: fas
+        icon: devicon/git
       - name: <b>Cheminformatics</b>
-        description: Drug-Target Interaction Analysis, Virtual HT Screening<br><b>75%</b>
+        description: Drug-Target Prediction, Virtual Screening<br><b>75%</b>
         percent: 75
         icon: devicon/atom
-        #icon_pack: fas
   - name: Soft Skills
     color: '#e12b64'
     color_border: '#e12b64'
     items:
-      - name: <b>Problem-solving</b>
-        # description: Problem-solving, Innovation, communication, presentation, collaborative, independent<br><b>95%</b>
-        description: Innovation, communication, presentation, collaborative, independent<br><b>95%</b>
+      - name: <b>Problem Solving</b>
+        description: Analytical, Innovative, Adaptable<br><b>95%</b>
+        percent: 95
+        icon: hero/puzzle-piece
+      - name: <b>Communication</b>
+        description: Technical Writing, Presentations, Stakeholder Collaboration<br><b>95%</b>
+        percent: 95
+        icon: hero/microphone
+      - name: <b>Teamwork</b>
+        description: Cross-functional Collaboration<br><b>95%</b>
         percent: 95
         icon: hero/user-group
-        #icon_pack: fas
-      - name: <b>Innovation</b>
-        description: Problem-solving, , communication, presentation, collaborative, independent<br><b>95%</b>
+      - name: <b>Independence</b>
+        description: Self-directed Research, Project Ownership<br><b>95%</b>
         percent: 95
-        icon: hero/user-group
-        #icon_pack: fas
-      - name: <b>communication</b>
-        description: Problem-solving, Innovation, , presentation, independent<br><b>95%</b>
-        percent: 95
-        icon: hero/user-group
-        #icon_pack: fas
-      - name: <b>collaborative</b>
-        description: Problem-solving, Innovation, communication, collaborative, independent<br><b>95%</b>
-        percent: 95
-        icon: hero/user-group
-        #icon_pack: fas
-      - name: <b>presentation</b>
-        description: <br><b>95%</b>
-        percent: 95
-        icon: hero/user-group
-        #icon_pack: fas
-      - name: <b>collaborative</b>
-        description: Problem-solving, Innovation, communication, presentation, independent<br><b>95%</b>
-        percent: 95
-        icon: hero/user-group
-        #icon_pack: fas
-      - name: <b>independent</b>
-        description: Problem-solving, Innovation, communication, presentation, collaborative<br><b>95%</b>
-        percent: 95
-        icon: hero/user-group
-        #icon_pack: fas
+        icon: hero/academic-cap
 
   #- name: Hobbies
   #  color: '#eeac02'
