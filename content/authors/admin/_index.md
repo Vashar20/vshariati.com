@@ -126,10 +126,11 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: 'Data Analysis, Pipelines Development, Database'
+      - name: <b>Python</b><br><sub>Data Analysis, Pipelines Development,<br>Database, API</sub> #Python
+        description: <b>95</b> #'Data Analysis, Pipelines Development, Database'
         percent: 95
-        icon: code-bracket
+        icon: python #code-bracket
+        icon_pack: fab
       - name: R
         description: 'Statistical Analysis and Visualization'
         percent: 80
