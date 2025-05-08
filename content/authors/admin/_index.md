@@ -135,7 +135,7 @@ skills:
         description: Statistical Analysis and Visualization<br><b>80%</b>
         percent: 80
         icon: r-project
-        icon_pack: fab
+        #icon_pack: fab
       - name: <b>Bash</b>
         description: System Management, Scripting, NGS Analysis<br><b>95%</b>
         percent: 95
@@ -146,53 +146,53 @@ skills:
         percent: 80
         icon: javascript-original
         icon_pack: devicon
-      - name: <b>SQL</b><br><sub>Database</sub>
-        description: <b>70%</b>
+      - name: <b>SQL</b>
+        description: Database<br><b>70%</b>
         percent: 70
         icon: mysql
         icon_pack: devicon
-      - name: <b>High-throughput Data</b><br><sub>Genomics, Transcriptomics, Multi-omics</sub>
-        description: <b>90%</b>
+      - name: <b>High-throughput Data</b>
+        description: Genomics, Transcriptomics, Multi-omics<br><b>90%</b>
         percent: 90
         icon: server-stack
         icon_pack: hero
-      - name: <b>Systems Biology</b><br><sub>Pathways, Networks, Differential co-expression, Integrated Networks</sub>
-        description: <b>90%</b>
+      - name: <b>Systems Biology</b>
+        description: Pathways, Networks, Differential co-expression, Integrated Networks<br><b>90%</b>
         percent: 90
         icon: networkx
         icon_pack: devicon
-      - name: <b>Machine Learning</b><br><sub>Supervised and Unsupervised Models</sub>
-        description: <b>80%</b>
+      - name: <b>Machine Learning</b>
+        description: Supervised and Unsupervised Models<br><b>80%</b>
         percent: 80
         icon: robot
         icon_pack: fas
-      - name: <b>Deep Learning</b><br><sub>CNN, GNN, VAE, GAN, LLM</sub>
-        description: <b>70%</b>
+      - name: <b>Deep Learning</b>
+        description: CNN, GNN, VAE, GAN, LLM<br><b>70%</b>
         percent: 70
         icon: keras
         icon_pack: devicon
-      - name: <b>Statistics</b><br><sub>Biostatisticals Data Analysis, Meta-analysis</sub>
-        description: <b>90%</b>
+      - name: <b>Statistics</b>
+        description: Biostatisticals Data Analysis, Meta-analysis<br><b>90%</b>
         percent: 90
         icon: gitter
         icon_pack: devicon
-      - name: <b>Population analysis</b><br><sub>Structure, GWAS, post-GWAS, MetaQTL, Demographic Analysis</sub>
-        description: <b>75%</b>
+      - name: <b>Population analysis</b>
+        description: Structure, GWAS, post-GWAS, MetaQTL, Demographic Analysis<br><b>75%</b>
         percent: 75
         icon: user-group
         icon_pack: hero
-      - name: <b>Genomics</b><br><sub>Structural, Functional, Comparative and conservation</sub>
-        description: <b>80%</b>
+      - name: <b>Genomics</b>
+        description: Structural, Functional, Comparative and conservation<br><b>80%</b>
         percent: 80
         icon: dna
         icon_pack: fas
-      - name: <b>Cheminformatics</b><br><sub>Drug-Target Interaction Analysis, Virtual HT Screening</sub>
-        description: <b>75%</b>
+      - name: <b>Cheminformatics</b>
+        description: Drug-Target Interaction Analysis, Virtual HT Screening<br><b>75%</b>
         percent: 75
         icon: atom
         icon_pack: fas
-      - name: <b>Soft Skills</b><br><sub>Problem-solving, Innovation, communication, presentation, collaborative, independent</sub>
-        description: <b>95%</b>
+      - name: <b>Soft Skills</b>
+        description: Problem-solving, Innovation, communication, presentation, collaborative, independent<br><b>95%</b>
         percent: 95
         icon: mood
         icon_pack: fas
