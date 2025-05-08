@@ -134,7 +134,7 @@ skills:
       - name: <b>R</b>
         description: Statistical Analysis and Visualization<br><b>80%</b>
         percent: 80
-        icon: r-project
+        icon: devicon/r-plain #r-project
         #icon_pack: fab
       - name: <b>Bash</b>
         description: System Management, Scripting, NGS Analysis<br><b>95%</b>
@@ -149,8 +149,8 @@ skills:
       - name: <b>SQL</b>
         description: Database<br><b>70%</b>
         percent: 70
-        icon: mysql
-        icon_pack: devicon
+        icon: devicon/mysql
+        #icon_pack: devicon
       - name: <b>High-throughput Data</b>
         description: Genomics, Transcriptomics, Multi-omics<br><b>90%</b>
         percent: 90
