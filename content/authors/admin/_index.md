@@ -164,7 +164,7 @@ skills:
       - name: <b>Machine Learning</b>
         description: Supervised and Unsupervised Models<br><b>80%</b>
         percent: 80
-        icon: fas/robot
+        icon: devicon/scikitlearn
         #icon_pack: fas
       - name: <b>Deep Learning</b>
         description: CNN, GNN, VAE, GAN, LLM<br><b>70%</b>
@@ -174,27 +174,27 @@ skills:
       - name: <b>Statistics</b>
         description: Biostatisticals Data Analysis, Meta-analysis<br><b>90%</b>
         percent: 90
-        icon: devicon/gitter
+        icon: devicon/matplotlib
         #icon_pack: devicon
       - name: <b>Population analysis</b>
         description: Structure, GWAS, post-GWAS, MetaQTL, Demographic Analysis<br><b>75%</b>
         percent: 75
-        icon: hero/user-group
+        icon: devicon/sourcetree
         #icon_pack: hero
       - name: <b>Genomics</b>
         description: Structural, Functional, Comparative and conservation<br><b>80%</b>
         percent: 80
-        icon: fas/dna
+        icon: devicon/molecular
         #icon_pack: fas
       - name: <b>Cheminformatics</b>
         description: Drug-Target Interaction Analysis, Virtual HT Screening<br><b>75%</b>
         percent: 75
-        icon: fas/atom
+        icon: devicon/sqlalchemy
         #icon_pack: fas
       - name: <b>Soft Skills</b>
         description: Problem-solving, Innovation, communication, presentation, collaborative, independent<br><b>95%</b>
         percent: 95
-        icon: fas/mood
+        icon: hero/user-group
         #icon_pack: fas
 
   #- name: Hobbies
