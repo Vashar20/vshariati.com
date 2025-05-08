@@ -154,48 +154,48 @@ skills:
       - name: <b>High-throughput Data</b>
         description: Genomics, Transcriptomics, Multi-omics<br><b>90%</b>
         percent: 90
-        icon: server-stack
-        icon_pack: hero
+        icon: hero/server-stack
+        #icon_pack: hero
       - name: <b>Systems Biology</b>
         description: Pathways, Networks, Differential co-expression, Integrated Networks<br><b>90%</b>
         percent: 90
-        icon: networkx
-        icon_pack: devicon
+        icon: devicon/networkx
+        #icon_pack: devicon
       - name: <b>Machine Learning</b>
         description: Supervised and Unsupervised Models<br><b>80%</b>
         percent: 80
-        icon: robot
-        icon_pack: fas
+        icon: fas/robot
+        #icon_pack: fas
       - name: <b>Deep Learning</b>
         description: CNN, GNN, VAE, GAN, LLM<br><b>70%</b>
         percent: 70
-        icon: keras
-        icon_pack: devicon
+        icon: devicon/keras
+        #icon_pack: devicon
       - name: <b>Statistics</b>
         description: Biostatisticals Data Analysis, Meta-analysis<br><b>90%</b>
         percent: 90
-        icon: gitter
-        icon_pack: devicon
+        icon: devicon/gitter
+        #icon_pack: devicon
       - name: <b>Population analysis</b>
         description: Structure, GWAS, post-GWAS, MetaQTL, Demographic Analysis<br><b>75%</b>
         percent: 75
-        icon: user-group
-        icon_pack: hero
+        icon: hero/user-group
+        #icon_pack: hero
       - name: <b>Genomics</b>
         description: Structural, Functional, Comparative and conservation<br><b>80%</b>
         percent: 80
-        icon: dna
-        icon_pack: fas
+        icon: fas/dna
+        #icon_pack: fas
       - name: <b>Cheminformatics</b>
         description: Drug-Target Interaction Analysis, Virtual HT Screening<br><b>75%</b>
         percent: 75
-        icon: atom
-        icon_pack: fas
+        icon: fas/atom
+        #icon_pack: fas
       - name: <b>Soft Skills</b>
         description: Problem-solving, Innovation, communication, presentation, collaborative, independent<br><b>95%</b>
         percent: 95
-        icon: mood
-        icon_pack: fas
+        icon: fas/mood
+        #icon_pack: fas
 
   #- name: Hobbies
   #  color: '#eeac02'
