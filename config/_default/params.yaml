@@ -39,7 +39,7 @@ header:
     logo:
       text: "Vahid Shariati"
       # Logo filename in `assets/media/` folder
-      # filename: "logo.svg"
+      filename: "logo.png"
     # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
     highlight_active_link: true
 
