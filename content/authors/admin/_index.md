@@ -91,7 +91,6 @@ work:
     summary: |2-
       - Population genome diversity
       - Pan-cancer studies
-      - Bioinformatics support for research projects
       - Meta-analysis, and omics integration
       - Drug discovery
       - AI models
@@ -119,7 +118,6 @@ work:
       - Algorithms for the identification and annotation of genetic variants
       - Bioinformatics support for research projects
       - Data mining, comparative genomics
-      - Pan and core genome analysis
       - Transcriptome Analysis
       - Population genetics
 
