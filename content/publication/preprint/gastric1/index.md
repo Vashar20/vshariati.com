@@ -2,7 +2,7 @@
 title: "Decoding Gastric Cancer: An AI-Driven Transcriptomic Meta-Analysis"
 authors:
 - A Asadi, T Adel, Z Nayeri, V shariati
-date: "2025-04-09T00:00:00Z"
+date: "2025-08-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
