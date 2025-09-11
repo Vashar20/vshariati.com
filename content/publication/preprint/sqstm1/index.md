@@ -2,7 +2,7 @@
 title: "Pan-cancer analysis of SQSTM1/p62 reveals its comprehensive contribution to shaping tumor microenvironment and anti-tumor immunity"
 authors:
 - Z Nayeri, E Tavakol, M Rahmati, V shariati, MA Moosavi
-date: "2025-03-01T00:00:00Z"
+date: "2025-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
