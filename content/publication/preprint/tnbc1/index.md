@@ -2,7 +2,7 @@
 title: "A comprehensive transcriptomic meta-Analysis leveraging deep learning to uncover molecular signatures and potential therapeutic targets in Triple-Negative Breast Cancers"
 authors:
 - S Salesi, T Adel, Z Nayeri, V shariati, A Zomorodipour
-date: "2025-04-09T00:00:00Z"
+date: "2025-08-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
