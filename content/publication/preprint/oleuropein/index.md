@@ -1,5 +1,5 @@
 ---
-title: "Oleuropein's Effects on Breast Cancer Revealed by RNA-Sequencing and Machine Learning"
+title: "Oleuropein's Effects on Breast Cancer Revealed by RNA-Sequencing and Deep Learning"
 authors:
 - T Adel, Z Nayeri, B Jahangiri, S Salesi, V shariati
 date: "2025-08-08T00:00:00Z"
