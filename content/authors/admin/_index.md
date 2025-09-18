@@ -82,20 +82,30 @@ education:
       
 
 work:
+  - position: Group Leader|Principal Investigator (PI)
+    company_name: NIGEB
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-01-01
+    date_end: ''
+    summary: |2-
+      - Lead projects in population genome diversity and Meta analysis in human and other species
+      - Conduct multi-omics integration, AI models, and drug discovery in cancer
+      - Project development, collaborations with clinicians and biologists
+      - Supervised PhD students and lead junior scientists
+
   - position: Senior Bioinformatician #Assistant Professor
     company_name: NIGEB
     company_url: ''
     company_logo: ''
-    date_start: 2018-01-01
-    date_end: ''
+    date_start: 2016-01-01
+    date_end: '2020-01-01'
     summary: |2-
-      - Population genome diversity
-      - Pan-cancer studies
-      - Meta-analysis, and omics integration
-      - Drug discovery
-      - AI models
-      - Train and lead junior scientists
-
+      - Developed tools and algorithms for computational genomics
+      - Advanced data analysis, meta-analysis, and omics integration
+      - Collaborative bioinformatics projects with multidisciplinary teams
+      - Train and supervised Master and PhD students
+        
   - position: Scientific Director of Genome Center
     company_name: NIGEB
     company_url: ''
@@ -112,7 +122,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2012-01-01
-    date_end: '2017-01-01'
+    date_end: '2016-01-01'
     summary: |2-
       - Pan and core genome analysis
       - Algorithms for the identification and annotation of genetic variants
