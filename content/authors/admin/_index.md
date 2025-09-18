@@ -89,8 +89,8 @@ work:
     date_start: 2020-01-01
     date_end: ''
     summary: |2-
-      - Lead projects in population genome diversity and Meta analysis in human and other species
-      - Conduct multi-omics integration, meta, AI for drug discovery
+      - Lead projects in population genome diversity and meta analysis
+      - Conduct multi-omics integration, meta, and AI for drug discovery
       - Collaborative project development with clinicians and biologists
       - Supervised PhD students and lead junior scientists
 
