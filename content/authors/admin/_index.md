@@ -82,7 +82,7 @@ education:
       
 
 work:
-  - position: Group Leader|Principal Investigator (PI)
+  - position: Group Leader | Principal Investigator
     company_name: NIGEB
     company_url: ''
     company_logo: ''
@@ -90,8 +90,8 @@ work:
     date_end: ''
     summary: |2-
       - Lead projects in population genome diversity and Meta analysis in human and other species
-      - Conduct multi-omics integration, AI models, and drug discovery in cancer
-      - Project development, collaborations with clinicians and biologists
+      - Conduct multi-omics integration, meta, AI for drug discovery
+      - Collaborative project development with clinicians and biologists
       - Supervised PhD students and lead junior scientists
 
   - position: Senior Bioinformatician #Assistant Professor
@@ -113,8 +113,8 @@ work:
     date_start: 2015-01-01
     date_end: 2020-12-31
     summary: |
-      - Genomics services and lab establishment
-      - Analysis pipelines development
+      - Established lab and genomics services
+      - Developed analysis pipelines 
       - Scientific consults
 
   - position: Bioinformatics Research Scientist #Assistant Professor
@@ -124,12 +124,11 @@ work:
     date_start: 2012-01-01
     date_end: '2016-01-01'
     summary: |2-
-      - Pan and core genome analysis
+      - Pan and core genome analysis in microorganisms
       - Algorithms for the identification and annotation of genetic variants
       - Bioinformatics support for research projects
       - Data mining, comparative genomics
-      - Transcriptome Analysis
-      - Population genetics
+      - Train and mentor students and researchers for NGS data analysis
 
     
   - position: Research Assistant
@@ -390,7 +389,7 @@ languages:
   - name: Italian
     percent: 60
   - name: French
-    percent: 30
+    percent: 50
   - name: Persian
     percent: 100
 
