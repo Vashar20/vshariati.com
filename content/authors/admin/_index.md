@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior Bioinformatician <br/> (Genomics Senior Scientist)
+role: Bioinformatician <br/> (Genomics Senior Scientist)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -43,7 +43,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/vahidshariati/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=lpnA4U4AAAAJ&hl=en
+    url: [https://scholar.google.com/citations?user=lpnA4U4AAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=lpnA4U4AAAAJ&view_op=list_works&sortby=pubdate)
   #- icon: academicons/orcid
   #  url: https://orcid.org/
 
