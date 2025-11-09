@@ -1,8 +1,8 @@
 ---
-title: "Population genome analysis of native Iranian olives reveals a third evolutionary path of isolation versus Mediterranean admixture"
+title: "Population Whole-Genome Analysis of Native Iranian Olives Reveals a Distinct Evolutionary Path of Isolation Compared to Mediterranean Admixture"
 authors:
-- Olive research group
-date: "2025-10-25T00:00:00Z"
+- NIGEB Olive Research Group
+date: "2025-09-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,6 +23,7 @@ abstract: This study presents the first whole-genome sequencing analysis of 106 
 summary: This study presents the first whole-genome sequencing analysis of 106 native Iranian olive genotypes (104 landraces, 2 cultivars), co-analyzed with 109 global Mediterranean accessions (total N=215), to test this paradigm and define the genetic uniqueness of the Iranian gene pool. Our sequencing effort generated an unprecedented genomic resource, identifying over 100 million genetic variants across the combined global dataset. Population structure analyses (PCA, STRUCTURE, Phylogenetic Tree) consistently resolved a primary split between cultivated olives, confirming the Iranian germplasm as a distinct and highly isolated super-group. Crucially, the second principal component (PC2, 11.8% variance) clearly segregated the Iranian and Mediterranean groups, providing genomic evidence for an independent evolutionary trajectory. This isolation was quantitatively supported by population genetics and demographic modeling 1) Genetic Diversity, Iranian populations exhibited the lowest overall genetic variation and high differentiation. 2) Demographic History, High positive Tajima’s D values and a significantly slower Linkage Disequilibrium (LD) decay were observed in Iranian accessions, providing strong, convergent evidence for a severe post-domestication population bottleneck and a remarkably small effective population size (Ne). Our findings firmly establish the Iranian olive as a unique genetic lineage shaped by prolonged geographic and reproductive isolation. We propose this as a Third Evolutionary Model—the Iranian Isolation Model—in olive diversification. This genetically distinct germplasm represents a critical, untapped reservoir of resilience and genetic diversity for global olive breeding, particularly in the face of climate change challenges.
 
 tags:
+- Plant
 - Olive
 - Population
 - Whole-genome
