@@ -1,5 +1,5 @@
 ---
-title: "Population Whole-Genome Analysis of Native Iranian Olives Reveals a Distinct Evolutionary Path of Isolation Compared to Mediterranean Admixture"
+title: "Population genome diversity of native Iranian and Mediterranean germplasm redefines the evolutionary history of the olive tree"
 authors:
 - NIGEB Olive Research Group
 date: "2025-09-25T00:00:00Z"
