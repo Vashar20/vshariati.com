@@ -32,7 +32,7 @@ tags:
 featured: true
 
 links:
-- name: ''
+- name: Custom Link
   url: ''
 url_pdf: ''
 url_code: ''
