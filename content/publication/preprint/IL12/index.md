@@ -1,8 +1,8 @@
 ---
-title: "Engineered mesenchymal stem cells utilizing an engineered promoter for tumor-restricted IL-12 immuno-gene therapy in Triple-Negative Breast Cancer"
+title: "Engineered mesenchymal stem cells for tumor-restricted IL-12 immuno-gene therapy in Triple-Negative Breast Cancer"
 authors:
 - Babak Jahangiri, Zahra-Soheila Soheili, Elahe Asadollahi, Mehdi Shamsara, Vahid Shariati, Fatemeh Masoumi, Alireza Zomorodipour
-date: "2025-11-02T00:00:00Z"
+date: "2025-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
