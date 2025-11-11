@@ -2,7 +2,7 @@
 title: "Towards a pan-cancer atlas of endoplasmic reticulum stress network: A machine learning approach"
 authors:
 - Z Nayeri, V Shariati, M Rahmati, MA Moosavi 
-date: "2025-09-07T00:00:00Z"
+date: "2025-10-03T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

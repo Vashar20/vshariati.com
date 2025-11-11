@@ -2,7 +2,7 @@
 title: "Population genome diversity of native Iranian and Mediterranean germplasm redefines the evolutionary history of the olive tree"
 authors:
 - NIGEB Olive Research Group
-date: "2025-09-25T00:00:00Z"
+date: "2025-10-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

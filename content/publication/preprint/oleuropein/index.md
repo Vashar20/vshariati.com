@@ -2,7 +2,7 @@
 title: "Oleuropein's Effects on Breast Cancer Revealed by RNA-Sequencing and Deep Learning"
 authors:
 - T Adel, Z Nayeri, B Jahangiri, S Salesi, V shariati
-date: "2025-08-08T00:00:00Z"
+date: "2025-10-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -33,7 +33,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: ''
   url: ''
 url_pdf: ''
 url_code: ''

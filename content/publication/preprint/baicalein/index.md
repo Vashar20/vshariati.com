@@ -2,7 +2,7 @@
 title: "Advanced Molecular Mechanisms of Baicalein's Neuroprotective Effects in Neurodegenerative Disease Treatments"
 authors:
 - Z Nayeri, V Shariati, F Aliakbari1, D Morshedi
-date: "2025-08-24T00:00:00Z"
+date: "2025-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
