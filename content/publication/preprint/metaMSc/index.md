@@ -1,8 +1,8 @@
 ---
-title: "Engineered mesenchymal stem cells for tumor-restricted IL-12 immuno-gene therapy in Triple-Negative Breast Cancer"
+title: "Transcriptome meta-analysis of tumor-associated mesenchymal stem cells reveals differentially expressed genes driving tumor microenvironment remodeling and cancer progression"
 authors:
 - Babak Jahangiri, Vahid Shariati, Elahe Asadollahi, Zahra-Soheila Soheili, Mehdi Shamsara, Alireza Zomorodipour
-date: "2025-09-03T00:00:00Z"
+date: "2025-09-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,7 @@ summary: Tumor-Associated Mesenchymal Stem Cells (TA-MSCs) are critical modulato
 tags:
 - Cancer
 - Breast
-- MSc
+- MSC
 - Meta-analysis
 - Human
 - Transcriptome
@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Figure 1. Multidimensional visualization of metagenes'
+  caption: 'Figure 3. Multidimensional visualization of metagenes'
   focal_point: ""
   preview_only: false
 
