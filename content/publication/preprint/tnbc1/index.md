@@ -36,7 +36,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: ''
   url: ''
 url_pdf: ''
 url_code: ''
@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Figure 8. Clustring of metagenes'
+  caption: 'Figure 3. Network visualization of meta-genes'
   focal_point: ""
   preview_only: false
 
