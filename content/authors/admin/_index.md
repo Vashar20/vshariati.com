@@ -56,7 +56,7 @@ interests:
 
 education:
   - area: PhD in Genomics
-    institution: Sant' Anna University, Italy, 2010
+    institution: Sant' Anna University, Italy, 2011
     date_start: 2007-03-31
     date_end: 2010-01-31
     summary: |
@@ -82,11 +82,11 @@ education:
       
 
 work:
-  - position: Group Leader | Principal Investigator
+  - position: Staff Bioinformatics Scientist #Group Leader | Principal Investigator
     company_name: NIGEB
     company_url: ''
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2020-01-15
     date_end: ''
     summary: |2-
       - Lead projects in population genome diversity and meta analysis
@@ -131,17 +131,17 @@ work:
       - Train and mentor students and researchers for NGS data analysis
 
     
-  - position: Research Assistant
-    company_name: University of Milan
-    company_url: ''
-    company_logo: ''
-    date_start: 2010-01-01
-    date_end: 2011-12-31
-    summary: |
-      - Analysis of genomic data
-      - Partial chromosome assembly for research project
-      - Statistical analysis and visualization
-      - Preparation of publications and research reports
+  #- position: Research Assistant
+  #  company_name: University of Milan
+  #  company_url: ''
+  #  company_logo: ''
+  #  date_start: 2010-01-01
+  #  date_end: 2011-12-31
+  #  summary: |
+  #    - Analysis of genomic data
+  #    - Partial chromosome assembly for research project
+  #    - Statistical analysis and visualization
+  #    - Preparation of publications and research reports
 
       
 
